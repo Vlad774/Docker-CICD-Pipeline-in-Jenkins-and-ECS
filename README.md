@@ -25,3 +25,13 @@ This project automates the entire Continuous Integration and Deployment (CI/CD) 
   
 
 ## Walk-through:
+
+![First try](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/CICD_Docker.png) 
+ ![First try](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/ec2.png) 
+ ![First try](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/Clusters_containers.png)
+ ![First try](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/ECR.png)
+ ![First try](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/ecs.png)
+ ![First try](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/logs.png)
+ ![First try](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/users.png)
+ ![First try](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/Jenkins%20deploy%20to%20ECS.png)
+ ![First try](https://github.com/Vlad774/Docker-CICD-Pipeline-in-Jenkins-and-ECS/blob/main/code.png)
